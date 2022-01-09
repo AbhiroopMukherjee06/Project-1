@@ -1,3 +1,3 @@
-File one created (head --> master) || New feature added by teammate.
+File one created (head --> master) || New feature added by teammate. || Change 1
 File one created (head --> bug1)
 
